@@ -5,7 +5,7 @@ import '@vaadin/button/vaadin-button.js';
 import '@vaadin/button/theme/lumo/vaadin-button.js';
 
 /**
- * An example element. sdsedfsa
+ * An example element.
  *
  * @slot - This element has a slot
  * @csspart button - The button
